@@ -1,0 +1,15 @@
+{
+  "name": "tv-shows-maze",
+  "version": "1.0.0",
+  "description": "Visualizador de episodios usando la API de TVMaze",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "servor src --browse"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "servor": "^4.0.2"
+  }
+}
